@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xooxaa
-- 👀 I’m interested in Coding, Coffea and Chilis
+- 👀 I’m interested in Coding, Coffee and Chilis
 - 🌱 I’m currently learning HTML, CSS, Javascript, React, Node.js, npm, ...
 
 <!---
