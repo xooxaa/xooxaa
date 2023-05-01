@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xooxaa
 - 👀 I’m interested in Coding, Coffee and Chilis
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, Node.js, npm, ...
+- 🌱 I’m currently learning HTML, CSS, Javascript, Angular, Node.js, npm, ...
 
 <!---
 xooxaa/xooxaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
